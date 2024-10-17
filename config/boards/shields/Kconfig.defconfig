@@ -1,6 +1,6 @@
 if SHIELD_HAMMERHEAD38
 
 config ZMK_KEYBOARD_NAME
-    default "hammerhead38"
+    default "hammerhead"
 
 endif
